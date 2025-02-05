@@ -1,0 +1,5 @@
+[project]
+name = "llmflex"
+version = "0.1.0"
+description = "A python package for developing AI applications with local LLMs."
+requires-python = ">=3.10"
